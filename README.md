@@ -1,1 +1,11 @@
-# skibidi-gojo
+<!DOCTYPE html>
+<header>
+    <body>
+        <main>
+            <h1>hi rsc people</h1>
+            <h2>grrr skibidi!</h2>
+            <p><a target="_blank" href="https://th.bing.com/th/id/OIP.6twplOYONMg0RMc2Xk13SQHaEK?rs=1&pid=ImgDetMain">gojo</a> sauces out now!!!! :fire: :fire: </p>
+            <img src="https://www.siliconera.com/wp-content/uploads/2024/07/jujutsu-kaisen-sauce-07032024.jpg" alt="skibidi gojo sauce">
+        </main>
+    </body>
+</header>
